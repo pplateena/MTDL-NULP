@@ -1,0 +1,23 @@
+
+# ── Apple Silicon (M1/M2/M3) GPU acceleration ──────────────
+# tensorflow-metal enables the Metal GPU plugin (M-series GPU cores)
+# Without it TF runs on CPU only
+tensorflow>=2.13
+tensorflow-metal
+
+# ── Experiment tracking & hyperparameter optimisation ───────
+mlflow
+optuna
+
+# ── ML / data ────────────────────────────────────────────────
+scikit-learn
+pandas
+numpy
+
+# ── Visualisation ────────────────────────────────────────────
+matplotlib
+seaborn
+
+# ── Notebook & Optuna progress bar ───────────────────────────
+jupyterlab
+ipywidgets
