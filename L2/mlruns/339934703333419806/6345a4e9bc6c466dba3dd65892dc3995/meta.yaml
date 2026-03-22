@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/6345a4e9bc6c466dba3dd65892dc3995/artifacts
+end_time: 1774015449384
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 6345a4e9bc6c466dba3dd65892dc3995
+run_name: adaptable-cat-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015449332
+status: 4
+tags: []
+user_id: plat-fedora

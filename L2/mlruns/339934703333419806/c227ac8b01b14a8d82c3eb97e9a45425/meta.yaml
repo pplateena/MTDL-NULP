@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/c227ac8b01b14a8d82c3eb97e9a45425/artifacts
+end_time: 1774015449278
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: c227ac8b01b14a8d82c3eb97e9a45425
+run_name: debonair-fly-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015449199
+status: 4
+tags: []
+user_id: plat-fedora

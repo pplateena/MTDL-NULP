@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/15c71633abcc40bd940166488f9bd318/artifacts
+end_time: 1774015428194
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 15c71633abcc40bd940166488f9bd318
+run_name: gregarious-lark-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015428027
+status: 4
+tags: []
+user_id: plat-fedora

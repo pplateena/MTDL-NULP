@@ -1,0 +1,23 @@
+artifact_path: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/564972562195208650/models/m-41ea876de2f8472fa621b2fb14cd495c/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.13
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0+cu130
+mlflow_version: 3.10.1
+model_id: m-41ea876de2f8472fa621b2fb14cd495c
+model_size_bytes: 56653
+model_uuid: m-41ea876de2f8472fa621b2fb14cd495c
+prompts: null
+run_id: bf5eb4bdd391486cbb062f1274888311
+utc_time_created: '2026-03-20 14:29:46.732899'

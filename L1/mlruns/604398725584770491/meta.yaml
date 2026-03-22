@@ -1,0 +1,7 @@
+artifact_location: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L1/mlruns/604398725584770491
+creation_time: 1773934468735
+experiment_id: '604398725584770491'
+last_update_time: 1773934468735
+lifecycle_stage: active
+name: titanic_l1_tensorflow
+workspace: default

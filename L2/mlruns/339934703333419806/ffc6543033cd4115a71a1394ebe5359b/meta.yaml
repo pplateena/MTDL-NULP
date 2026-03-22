@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/ffc6543033cd4115a71a1394ebe5359b/artifacts
+end_time: 1774017051422
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: ffc6543033cd4115a71a1394ebe5359b
+run_name: sassy-snake-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017051347
+status: 4
+tags: []
+user_id: plat-fedora

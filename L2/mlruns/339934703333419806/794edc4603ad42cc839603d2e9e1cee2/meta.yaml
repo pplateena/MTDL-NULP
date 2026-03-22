@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/794edc4603ad42cc839603d2e9e1cee2/artifacts
+end_time: 1774017035745
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 794edc4603ad42cc839603d2e9e1cee2
+run_name: loud-horse-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017031250
+status: 4
+tags: []
+user_id: plat-fedora

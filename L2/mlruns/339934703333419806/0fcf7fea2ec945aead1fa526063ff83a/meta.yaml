@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/0fcf7fea2ec945aead1fa526063ff83a/artifacts
+end_time: 1774015442474
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 0fcf7fea2ec945aead1fa526063ff83a
+run_name: valuable-croc-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015442408
+status: 4
+tags: []
+user_id: plat-fedora

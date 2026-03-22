@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/3d890e28f55c4c1ab0914afd6fd8e3c7/artifacts
+end_time: 1774017047712
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 3d890e28f55c4c1ab0914afd6fd8e3c7
+run_name: thundering-shark-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017047611
+status: 4
+tags: []
+user_id: plat-fedora

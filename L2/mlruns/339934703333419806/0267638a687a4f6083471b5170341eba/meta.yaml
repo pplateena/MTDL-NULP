@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/0267638a687a4f6083471b5170341eba/artifacts
+end_time: 1774017037484
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 0267638a687a4f6083471b5170341eba
+run_name: funny-bat-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017031230
+status: 4
+tags: []
+user_id: plat-fedora

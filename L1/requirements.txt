@@ -1,9 +1,8 @@
 
-# ── Apple Silicon (M1/M2/M3) GPU acceleration ──────────────
-# tensorflow-metal enables the Metal GPU plugin (M-series GPU cores)
-# Without it TF runs on CPU only
-tensorflow>=2.13
-tensorflow-metal
+# ── NVIDIA GPU acceleration (Linux + CUDA) ──────────────────
+# tensorflow[and-cuda] bundles the CUDA/cuDNN deps via pip (TF 2.13+)
+# Requires NVIDIA driver >= 525 on the host; no separate CUDA toolkit needed
+tensorflow[and-cuda]>=2.13
 
 # ── Experiment tracking & hyperparameter optimisation ───────
 mlflow

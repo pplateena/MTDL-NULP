@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/d394fe5bb923411b9ea4fb7270fcfd13/artifacts
+end_time: 1774017024786
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: d394fe5bb923411b9ea4fb7270fcfd13
+run_name: overjoyed-gull-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017024469
+status: 4
+tags: []
+user_id: plat-fedora

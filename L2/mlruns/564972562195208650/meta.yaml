@@ -1,0 +1,7 @@
+artifact_location: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/564972562195208650
+creation_time: 1774013412899
+experiment_id: '564972562195208650'
+last_update_time: 1774013412899
+lifecycle_stage: active
+name: titanic_l2_pytorch
+workspace: default

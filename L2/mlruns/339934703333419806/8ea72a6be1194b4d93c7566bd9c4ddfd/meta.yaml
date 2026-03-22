@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/8ea72a6be1194b4d93c7566bd9c4ddfd/artifacts
+end_time: 1774015435787
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 8ea72a6be1194b4d93c7566bd9c4ddfd
+run_name: bittersweet-goat-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015435745
+status: 4
+tags: []
+user_id: plat-fedora

@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/e64ce2a70495472f9ea079392ff5ee5e/artifacts
+end_time: 1774017024530
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: e64ce2a70495472f9ea079392ff5ee5e
+run_name: brawny-shrike-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017023221
+status: 4
+tags: []
+user_id: plat-fedora

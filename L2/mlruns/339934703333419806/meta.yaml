@@ -1,0 +1,7 @@
+artifact_location: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806
+creation_time: 1774013437383
+experiment_id: '339934703333419806'
+last_update_time: 1774013437383
+lifecycle_stage: active
+name: titanic_l2_raytune
+workspace: default

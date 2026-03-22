@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/a195e4d1b1e64284a66763b970fa42c4/artifacts
+end_time: 1774015427367
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: a195e4d1b1e64284a66763b970fa42c4
+run_name: crawling-kite-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015427159
+status: 4
+tags: []
+user_id: plat-fedora

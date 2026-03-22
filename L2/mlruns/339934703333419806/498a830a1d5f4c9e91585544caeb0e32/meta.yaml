@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/498a830a1d5f4c9e91585544caeb0e32/artifacts
+end_time: 1774015427372
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 498a830a1d5f4c9e91585544caeb0e32
+run_name: awesome-cub-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015427138
+status: 4
+tags: []
+user_id: plat-fedora

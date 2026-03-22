@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/ac4811d52fa145b197a5604280583c51/artifacts
+end_time: 1774017048799
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: ac4811d52fa145b197a5604280583c51
+run_name: delightful-quail-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017048369
+status: 4
+tags: []
+user_id: plat-fedora

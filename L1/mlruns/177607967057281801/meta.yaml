@@ -1,0 +1,7 @@
+artifact_location: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L1/mlruns/177607967057281801
+creation_time: 1773996633363
+experiment_id: '177607967057281801'
+last_update_time: 1773996633363
+lifecycle_stage: active
+name: titanic_l1_optuna
+workspace: default

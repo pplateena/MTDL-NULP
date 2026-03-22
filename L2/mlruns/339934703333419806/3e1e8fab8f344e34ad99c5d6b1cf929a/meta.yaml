@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/3e1e8fab8f344e34ad99c5d6b1cf929a/artifacts
+end_time: 1774015427230
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 3e1e8fab8f344e34ad99c5d6b1cf929a
+run_name: silent-fawn-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015427117
+status: 4
+tags: []
+user_id: plat-fedora

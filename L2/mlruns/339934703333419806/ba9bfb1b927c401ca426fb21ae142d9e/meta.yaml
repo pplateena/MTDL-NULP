@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/ba9bfb1b927c401ca426fb21ae142d9e/artifacts
+end_time: 1774017012597
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: ba9bfb1b927c401ca426fb21ae142d9e
+run_name: exultant-sponge-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017006189
+status: 4
+tags: []
+user_id: plat-fedora

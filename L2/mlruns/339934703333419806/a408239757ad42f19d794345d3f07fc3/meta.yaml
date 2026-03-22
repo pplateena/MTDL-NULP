@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/a408239757ad42f19d794345d3f07fc3/artifacts
+end_time: 1774017041888
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: a408239757ad42f19d794345d3f07fc3
+run_name: judicious-panda-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017041641
+status: 4
+tags: []
+user_id: plat-fedora

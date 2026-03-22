@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/8e51fdf8dec843bda386cfb40c84fb05/artifacts
+end_time: 1774015435662
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 8e51fdf8dec843bda386cfb40c84fb05
+run_name: unruly-hog-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015434140
+status: 4
+tags: []
+user_id: plat-fedora

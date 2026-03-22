@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/3fa3c589ccc843729eeafe2d50e34eae/artifacts
+end_time: 1774017033614
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 3fa3c589ccc843729eeafe2d50e34eae
+run_name: stately-kite-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017031239
+status: 4
+tags: []
+user_id: plat-fedora

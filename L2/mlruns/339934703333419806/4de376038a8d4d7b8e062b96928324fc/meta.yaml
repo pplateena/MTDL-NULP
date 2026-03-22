@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/4de376038a8d4d7b8e062b96928324fc/artifacts
+end_time: 1774017017348
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 4de376038a8d4d7b8e062b96928324fc
+run_name: welcoming-panda-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017006206
+status: 4
+tags: []
+user_id: plat-fedora

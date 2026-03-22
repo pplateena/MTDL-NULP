@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/38c2833c425948ccb289e917383da9d7/artifacts
+end_time: 1774015449290
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 38c2833c425948ccb289e917383da9d7
+run_name: luminous-shrimp-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015449198
+status: 4
+tags: []
+user_id: plat-fedora

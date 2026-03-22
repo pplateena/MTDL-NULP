@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/2c2b59a67d054dab8d4ebdb85135c8fa/artifacts
+end_time: 1774015421041
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 2c2b59a67d054dab8d4ebdb85135c8fa
+run_name: luminous-kite-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015420947
+status: 4
+tags: []
+user_id: plat-fedora

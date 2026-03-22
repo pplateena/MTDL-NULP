@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/a197cc02f6a14b77a2e6a5eb44c02550/artifacts
+end_time: 1774017044730
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: a197cc02f6a14b77a2e6a5eb44c02550
+run_name: sedate-bass-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017044484
+status: 4
+tags: []
+user_id: plat-fedora

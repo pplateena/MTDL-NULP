@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L1/mlruns/177607967057281801/6efe6429e6fa480098ebc78b72b3d4c6/artifacts
+end_time: 1773996669243
+entry_point_name: ''
+experiment_id: '177607967057281801'
+lifecycle_stage: active
+run_id: 6efe6429e6fa480098ebc78b72b3d4c6
+run_name: trial_004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773996669238
+status: 3
+tags: []
+user_id: plat-fedora

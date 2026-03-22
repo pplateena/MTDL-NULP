@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/090b6e78ae9c4ec583ca9a3ef62f3846/artifacts
+end_time: 1774017041088
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 090b6e78ae9c4ec583ca9a3ef62f3846
+run_name: kindly-grouse-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017040904
+status: 4
+tags: []
+user_id: plat-fedora

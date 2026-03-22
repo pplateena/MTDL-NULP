@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L1/mlruns/177607967057281801/0c6acd20c2d04df49a6110d7d4b48e28/artifacts
+end_time: 1773996764895
+entry_point_name: ''
+experiment_id: '177607967057281801'
+lifecycle_stage: active
+run_id: 0c6acd20c2d04df49a6110d7d4b48e28
+run_name: optuna_best_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773996760147
+status: 3
+tags: []
+user_id: plat-fedora

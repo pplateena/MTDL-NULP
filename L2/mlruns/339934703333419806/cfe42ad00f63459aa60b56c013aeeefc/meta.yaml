@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/cfe42ad00f63459aa60b56c013aeeefc/artifacts
+end_time: 1774017044813
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: cfe42ad00f63459aa60b56c013aeeefc
+run_name: burly-bat-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017044557
+status: 4
+tags: []
+user_id: plat-fedora

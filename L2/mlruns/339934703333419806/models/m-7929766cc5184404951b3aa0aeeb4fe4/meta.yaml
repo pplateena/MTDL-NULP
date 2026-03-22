@@ -1,0 +1,10 @@
+artifact_location: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/models/m-7929766cc5184404951b3aa0aeeb4fe4/artifacts
+creation_timestamp: 1774017051998
+experiment_id: '339934703333419806'
+last_updated_timestamp: 1774017054390
+model_id: m-7929766cc5184404951b3aa0aeeb4fe4
+model_type: null
+name: model
+source_run_id: a74de9218f794ce9b46380ee6f5683b1
+status: 2
+status_message: null

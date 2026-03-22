@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/8d40b392df9f403fa7c9c4f03c1cbb08/artifacts
+end_time: 1774015420943
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 8d40b392df9f403fa7c9c4f03c1cbb08
+run_name: calm-ray-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015420815
+status: 4
+tags: []
+user_id: plat-fedora

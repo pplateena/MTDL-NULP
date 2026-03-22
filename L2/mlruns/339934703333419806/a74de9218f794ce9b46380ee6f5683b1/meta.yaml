@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/a74de9218f794ce9b46380ee6f5683b1/artifacts
+end_time: 1774017054391
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: a74de9218f794ce9b46380ee6f5683b1
+run_name: raytune_best_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017051520
+status: 3
+tags: []
+user_id: plat-fedora

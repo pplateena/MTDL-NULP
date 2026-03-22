@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/1825c971969b44fb982063f52958d43b/artifacts
+end_time: 1774017026544
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 1825c971969b44fb982063f52958d43b
+run_name: luminous-sponge-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017026422
+status: 4
+tags: []
+user_id: plat-fedora

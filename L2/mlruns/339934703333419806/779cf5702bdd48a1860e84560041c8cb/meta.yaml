@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/779cf5702bdd48a1860e84560041c8cb/artifacts
+end_time: 1774017020106
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 779cf5702bdd48a1860e84560041c8cb
+run_name: angry-koi-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017019673
+status: 4
+tags: []
+user_id: plat-fedora

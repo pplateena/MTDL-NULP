@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/03427df6d11d42efa5e16aebe4bdd6ac/artifacts
+end_time: 1774015421009
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 03427df6d11d42efa5e16aebe4bdd6ac
+run_name: gentle-moth-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774015420867
+status: 4
+tags: []
+user_id: plat-fedora

@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/564972562195208650/bf5eb4bdd391486cbb062f1274888311/artifacts
+end_time: 1774016989082
+entry_point_name: ''
+experiment_id: '564972562195208650'
+lifecycle_stage: active
+run_id: bf5eb4bdd391486cbb062f1274888311
+run_name: basic_leaky_relu
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774016986384
+status: 3
+tags: []
+user_id: plat-fedora

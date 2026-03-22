@@ -1,0 +1,24 @@
+
+# ── PyTorch + CUDA (Linux + NVIDIA) ─────────────────────────
+# Install from pytorch.org index for the correct CUDA version
+# pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch
+
+# ── Experiment tracking ──────────────────────────────────────
+mlflow
+
+# ── Hyperparameter optimisation ──────────────────────────────
+ray[tune]
+
+# ── ML / data ────────────────────────────────────────────────
+scikit-learn
+pandas
+numpy
+
+# ── Visualisation ────────────────────────────────────────────
+matplotlib
+seaborn
+
+# ── Notebook ─────────────────────────────────────────────────
+jupyterlab
+ipywidgets

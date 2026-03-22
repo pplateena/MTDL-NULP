@@ -1,0 +1,14 @@
+artifact_uri: /home/plat-fedora/Projects/git-cloned/MTDL-NULP/L2/mlruns/339934703333419806/4e0df1da8eb5430d9a882f60adf64593/artifacts
+end_time: 1774017017144
+entry_point_name: ''
+experiment_id: '339934703333419806'
+lifecycle_stage: active
+run_id: 4e0df1da8eb5430d9a882f60adf64593
+run_name: amazing-toad-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774017006159
+status: 4
+tags: []
+user_id: plat-fedora
