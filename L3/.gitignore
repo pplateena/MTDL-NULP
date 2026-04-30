@@ -1,0 +1,13 @@
+*.idea
+
+# Training outputs
+checkpoints/
+runs/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
